@@ -3,4 +3,3 @@ requests
 bs4
 tgcrypto==1.2.3
 python-dotenv
-pip install aiohttp
